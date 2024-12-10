@@ -1,0 +1,3 @@
+http_proxy=http://你的域名或IP+端口
+https_proxy=http://你的域名或IP+端口
+ALL_PROXY=http://你的域名或IP+端口
