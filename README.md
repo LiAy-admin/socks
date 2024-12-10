@@ -16,7 +16,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/socks.git
+git clone https://github.com/LiAy-admin/socks.git
 cd socks
 ```
 
@@ -67,5 +67,5 @@ MIT License
 
 ## 联系方式
 
-- GitHub Issues: [提交问题](https://github.com/yourusername/socks/issues)
-- Email: your.email@example.com
+- GitHub Issues: [提交问题](https://github.com/LiAy-admin/socks/issues)
+- Email: *****@**.com
